@@ -13,8 +13,11 @@
    height="1024"
    id="svg3030"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="godot_icon.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="godot_icon.svg"
+   inkscape:export-filename="/home/pgears/Documentos/godot/godot_icon.png"
+   inkscape:export-xdpi="22.5"
+   inkscape:export-ydpi="22.5">
   <defs
      id="defs3032" />
   <sodipodi:namedview
@@ -24,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="340.91041"
-     inkscape:cy="224.06536"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="-676.16882"
+     inkscape:cy="906.73728"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="748"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-width="1365"
+     inkscape:window-height="715"
+     inkscape:window-x="1"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3035">
@@ -53,13 +56,13 @@
      id="layer1"
      transform="translate(0,-28.362183)">
     <rect
-       style="fill:#a39f9f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#373e48;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:32;stroke-linecap:round;stroke-linejoin:round"
        id="rect4009"
        width="990"
        height="990"
        x="20"
        y="47.362183"
-       ry="187.81349" />
+       ry="128" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        d="m 116.99388,715.36604 43.13957,-74.51381 75.99672,-171.42666 271.088,-13.63746 282.06373,14.1696 138.45065,255.56931 -25.0756,66.96734 -376.12685,53.39482 -367.70391,-40.32222 z"
